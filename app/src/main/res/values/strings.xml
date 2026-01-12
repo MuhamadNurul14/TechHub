@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TechHub</string>
+    <string name="tagline">Your Smartphone Catalog</string>
+
+    <!-- Onboarding -->
+    <string name="skip">Lewati</string>
+    <string name="next">Selanjutnya</string>
+    <string name="start">Mulai</string>
+    <string name="onboarding_icon">Onboarding Icon</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="register">Daftar</string>
+    <string name="login_subtitle">Masuk ke akun TechHub Anda</string>
+    <string name="register_subtitle">Buat akun TechHub baru</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="register_now">Daftar sekarang</string>
+    <string name="have_account">Sudah punya akun?</string>
+    <string name="login_here">Login di sini</string>
+    <string name="login_icon">Login Icon</string>
+    <string name="register_icon">Register Icon</string>
+
+    <!-- Main -->
+    <string name="smartphone_catalog">Katalog Smartphone</string>
+    <string name="smartphone_image">Smartphone Image</string>
+    <string name="view_detail">Lihat Detail</string>
+
+    <!-- Detail -->
+    <string name="color_options">Pilihan Warna:</string>
+    <string name="full_specifications">Spesifikasi Lengkap</string>
+    <string name="processor">Processor</string>
+    <string name="display">Display</string>
+    <string name="camera">Kamera</string>
+    <string name="battery">Baterai</string>
+    <string name="memory">Memori</string>
+    <string name="operating_system">Sistem Operasi</string>
+
+    <!-- Search -->
+    <string name="no_results">Tidak ada hasil ditemukan</string>
+
+    <!-- Compare -->
+    <string name="compare_icon">Compare Icon</string>
+    <string name="select_phones_to_compare">Pilih 2 Smartphone untuk Dibandingkan</string>
+
+    <!-- Settings -->
+    <string name="notifications">Notifikasi</string>
+    <string name="enable_push_notifications">Aktifkan notifikasi push</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="dark_theme_display">Tampilan tema gelap</string>
+    <string name="language">Bahasa</string>
+    <string name="privacy">Privasi &amp; Keamanan</string>
+    <string name="manage_privacy">Atur privasi akun Anda</string>
+    <string name="manage">Kelola</string>
+    <string name="clear_cache">Hapus Cache</string>
+    <string name="free_up_storage">Bebaskan ruang penyimpanan</string>
+    <string name="clear">Hapus</string>
+    <string name="version">Versi 1.0.0</string>
+    <string name="copyright">© 2026 TechHub. All rights reserved.</string>
+
+    <!-- About -->
+    <string name="student_label">Mahasiswa Praktikum BP3</string>
+    <string name="about_app">Tentang Aplikasi</string>
+    <string name="about_description">TechHub adalah aplikasi katalog smartphone yang dibuat sebagai tugas UAS Praktikum BP3. Aplikasi ini menampilkan informasi lengkap tentang berbagai smartphone populer dari brand ternama.</string>
+    <string name="tech_stack">Teknologi yang Digunakan:</string>
+    <string name="footer_text">© 2026 TechHub - Tugas UAS Praktikum BP3\nMade with ❤️ for education purposes</string>
+
+    <!-- Arrays -->
+    <string-array name="languages">
+        <item>Bahasa Indonesia</item>
+        <item>English</item>
+        <item>中文</item>
+    </string-array>
+</resources>
